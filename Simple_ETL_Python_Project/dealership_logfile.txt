@@ -1,0 +1,8 @@
+2023-Mar-28-13:54:28,ETL Job Started
+2023-Mar-28-13:54:28,Extract step Started
+2023-Mar-28-13:54:29,Extract step completed
+2023-Mar-28-13:54:29,Transform step Started
+2023-Mar-28-13:54:29,Transform step Ended
+2023-Mar-28-13:54:29,Load step Started
+2023-Mar-28-13:54:29,Load step Ended
+2023-Mar-28-13:54:29,ETL Job Ended
